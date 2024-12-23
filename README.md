@@ -69,6 +69,6 @@ Desenvolver o Jogo da Velha foi uma experiência transformadora, que uniu:
 - **Colaboração em equipe**: Trabalho coletivo e organizado para atingir metas compartilhadas.  
 - **Práticas ágeis**: Uso de ferramentas e metodologias para melhorar a produtividade e a comunicação.  
 
-O hackathon nos ensinou a importância de trabalhar em equipe, planejar e executar um projeto real do início ao fim  
+O hackathon nos ensinou a importância de trabalhar em equipe, planejar e executar um projeto real do início ao fim. 
 
 --- 
